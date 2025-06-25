@@ -1,0 +1,108 @@
+business_date,region,source_system_id,result_type,cal_category,book_id,reporting_value
+2025-05-12,North America,SS001,Profit,Revenue,101,20.75
+2025-05-13,North America,SS001,Profit,Revenue,101,30.75
+2025-05-14,North America,SS001,Profit,Revenue,101,20.75
+2025-05-12,Europe,SS002,Loss,Expense,102,-72000.30
+2025-05-12,Asia,SS003,Profit,Revenue,103,95000.20
+2025-05-12,North America,SS004,Loss,Depreciation,104,-16000.50
+2025-05-12,Latin America,SS005,Profit,Interest,105,31000.80
+2025-05-13,North America,SS001,Profit,Revenue,106,130000.25
+2025-05-13,Europe,SS002,Loss,Expense,107,-78000.10
+2025-05-13,Asia,SS003,Profit,Revenue,108,99000.60
+2025-05-13,North America,SS004,Loss,Depreciation,109,-14000.90
+2025-05-13,Latin America,SS005,Profit,Interest,110,34000.15
+2025-05-14,North America,SS001,Profit,Revenue,111,124000.40
+2025-05-14,Europe,SS002,Loss,Expense,112,-74000.25
+2025-05-14,Asia,SS003,Profit,Revenue,113,97000.85
+2025-05-14,North America,SS004,Loss,Depreciation,114,-15500.00
+2025-05-14,Latin America,SS005,Profit,Interest,115,32500.30
+2025-05-15,North America,SS001,Profit,Revenue,116,126500.90
+2025-05-15,Europe,SS002,Loss,Expense,117,-76000.45
+2025-05-15,Asia,SS003,Profit,Revenue,118,96000.70
+2025-05-15,North America,SS004,Loss,Depreciation,119,-14500.20
+2025-05-15,Latin America,SS005,Profit,Interest,120,33000.60
+2025-05-16,North America,SS001,Profit,Revenue,121,129000.15
+2025-05-16,Europe,SS002,Loss,Expense,122,-73000.80
+2025-05-16,Asia,SS003,Profit,Revenue,123,98000.25
+2025-05-16,North America,SS004,Loss,Depreciation,124,-15000.10
+2025-05-16,Latin America,SS005,Profit,Interest,125,31500.40
+2025-05-17,North America,SS001,Profit,Revenue,126,127500.50
+2025-05-17,Europe,SS002,Loss,Expense,127,-75000.35
+2025-05-17,Asia,SS003,Profit,Revenue,128,95500.90
+2025-05-17,North America,SS004,Loss,Depreciation,129,-14750.00
+2025-05-17,Latin America,SS005,Profit,Interest,130,32000.75
+2025-05-18,North America,SS001,Profit,Revenue,131,131000.20
+2025-05-18,Europe,SS002,Loss,Expense,132,-77000.60
+2025-05-18,Asia,SS003,Profit,Revenue,133,96500.45
+2025-05-18,North America,SS004,Loss,Depreciation,134,-15250.30
+2025-05-18,Latin America,SS005,Profit,Interest,135,33500.10
+2025-05-19,North America,SS001,Profit,Revenue,136,125500.80
+2025-05-19,Europe,SS002,Loss,Expense,137,-74000.15
+2025-05-19,Asia,SS003,Profit,Revenue,138,97500.70
+2025-05-19,North America,SS004,Loss,Depreciation,139,-14900.40
+2025-05-19,Latin America,SS005,Profit,Interest,140,32250.25
+2025-05-20,North America,SS001,Profit,Revenue,141,128000.60
+2025-05-20,Europe,SS002,Loss,Expense,142,-75500.90
+2025-05-20,Asia,SS003,Profit,Revenue,143,95000.35
+2025-05-20,North America,SS004,Loss,Depreciation,144,-15300.80
+2025-05-20,Latin America,SS005,Profit,Interest,145,31750.50
+2025-05-21,North America,SS001,Profit,Revenue,146,130500.25
+2025-05-21,Europe,SS002,Loss,Expense,147,-76500.10
+2025-05-21,Asia,SS003,Profit,Revenue,148,98500.20
+2025-05-21,North America,SS004,Loss,Depreciation,149,-14600.70
+2025-05-21,Latin America,SS005,Profit,Interest,150,33000.90
+2025-05-22,North America,SS001,Profit,Revenue,151,126000.40
+2025-05-22,Europe,SS002,Loss,Expense,152,-74500.25
+2025-05-22,Asia,SS003,Profit,Revenue,153,97000.80
+2025-05-22,North America,SS004,Loss,Depreciation,154,-15100.00
+2025-05-22,Latin America,SS005,Profit,Interest,155,32500.60
+2025-05-23,North America,SS001,Profit,Revenue,156,129500.15
+2025-05-23,Europe,SS002,Loss,Expense,157,-73500.30
+2025-05-23,Asia,SS003,Profit,Revenue,158,96000.45
+2025-05-23,North America,SS004,Loss,Depreciation,159,-14800.20
+2025-05-23,Latin America,SS005,Profit,Interest,160,32000.10
+2025-05-24,North America,SS001,Profit,Revenue,161,127000.75
+2025-05-24,Europe,SS002,Loss,Expense,162,-75000.80
+2025-05-24,Asia,SS003,Profit,Revenue,163,97500.25
+2025-05-24,North America,SS004,Loss,Depreciation,164,-15000.90
+2025-05-24,Latin America,SS005,Profit,Interest,165,31500.40
+2025-05-25,North America,SS001,Profit,Revenue,166,130000.30
+2025-05-25,Europe,SS002,Loss,Expense,167,-76000.60
+2025-05-25,Asia,SS003,Profit,Revenue,168,96500.15
+2025-05-25,North America,SS004,Loss,Depreciation,169,-14700.50
+2025-05-25,Latin America,SS005,Profit,Interest,170,33000.20
+2025-05-26,North America,SS001,Profit,Revenue,171,125500.90
+2025-05-26,Europe,SS002,Loss,Expense,172,-74000.25
+2025-05-26,Asia,SS003,Profit,Revenue,173,97000.70
+2025-05-26,North America,SS004,Loss,Depreciation,174,-15250.10
+2025-05-26,Latin America,SS005,Profit,Interest,175,32250.80
+2025-05-27,North America,SS001,Profit,Revenue,176,128500.60
+2025-05-27,Europe,SS002,Loss,Expense,177,-75500.45
+2025-05-27,Asia,SS003,Profit,Revenue,178,95500.30
+2025-05-27,North America,SS004,Loss,Depreciation,179,-14900.00
+2025-05-27,Latin America,SS005,Profit,Interest,180,31750.15
+2025-05-28,North America,SS001,Profit,Revenue,181,131000.20
+2025-05-28,Europe,SS002,Loss,Expense,182,-76500.80
+2025-05-28,Asia,SS003,Profit,Revenue,183,98000.25
+2025-05-28,North America,SS004,Loss,Depreciation,184,-14600.40
+2025-05-28,Latin America,SS005,Profit,Interest,185,32500.50
+2025-05-29,North America,SS001,Profit,Revenue,186,126500.75
+2025-05-29,Europe,SS002,Loss,Expense,187,-74500.90
+2025-05-29,Asia,SS003,Profit,Revenue,188,96500.60
+2025-05-29,North America,SS004,Loss,Depreciation,189,-15100.20
+2025-05-29,Latin America,SS005,Profit,Interest,190,32000.30
+2025-05-30,North America,SS001,Profit,Revenue,191,129000.40
+2025-05-30,Europe,SS002,Loss,Expense,192,-75000.15
+2025-05-30,Asia,SS003,Profit,Revenue,193,97000.80
+2025-05-30,North America,SS004,Loss,Depreciation,194,-14800.70
+2025-05-30,Latin America,SS005,Profit,Interest,195,31500.25
+2025-05-31,North America,SS001,Profit,Revenue,196,127500.90
+2025-05-31,Europe,SS002,Loss,Expense,197,-76000.50
+2025-05-31,Asia,SS003,Profit,Revenue,198,97500.35
+2025-05-31,North America,SS004,Loss,Depreciation,199,-15000.10
+2025-05-31,Latin America,SS005,Profit,Interest,200,33000.60
+2025-06-01,North America,SS001,Profit,Revenue,201,125000.50
+2025-06-01,Europe,SS002,Loss,Expense,202,-75000.25
+2025-06-01,Asia,SS003,Profit,Revenue,203,98000.75
+2025-06-01,North America,SS004,Loss,Depreciation,204,-15000.00
+2025-06-01,Latin America,SS005,Profit,Interest,205,32000.10

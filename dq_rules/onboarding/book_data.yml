@@ -1,0 +1,45 @@
+dataset_name: book_data
+business_date: 2025-06-25
+data_path: dq_rules/onboarding/book_data_current.csv
+rules:
+  business_date:
+    - category: discovery
+      name: null_values
+      params: {}
+  region:
+    - category: discovery
+      name: null_values
+      params: {}
+    - category: discovery
+      name: empty_strings
+      params: {}
+  source_system_id:
+    - category: discovery
+      name: null_values
+      params: {}
+    - category: discovery
+      name: duplicate_rows
+      params: {}
+  result_type:
+    - category: discovery
+      name: null_values
+      params: {}
+    - category: discovery
+      name: all_strings
+      params: {}
+  reporting_value:
+    - category: discovery
+      name: null_values
+      params: {}
+    - category: anomaly
+      name: zscore
+      params:
+        threshold: 3
+        hist_data_path: dq_rules/onboarding/book_data_hist.csv
+        match_col: book_id
+    - category: anomaly
+      name: isolation_forest
+      params:
+        contamination: 0.1
+        hist_data_path: dq_rules/onboarding/book_data_hist.csv
+        match_col: book_id

@@ -1,0 +1,11 @@
+column,rule,category,passed,observation
+business_date,null_values,discovery,True,Null count: 0
+region,null_values,discovery,True,Null count: 0
+region,empty_strings,discovery,True,Empty string count: 0
+source_system_id,null_values,discovery,True,Null count: 0
+source_system_id,duplicate_rows,discovery,False,Duplicate count: 1
+result_type,null_values,discovery,True,Null count: 0
+result_type,all_strings,discovery,True,Is string dtype: True
+reporting_value,null_values,discovery,True,Null count: 0
+reporting_value,zscore,anomaly,False,Error in anomaly rule: 'reporting_value_hist'
+reporting_value,isolation_forest,anomaly,False,Error in anomaly rule: 'reporting_value_hist'

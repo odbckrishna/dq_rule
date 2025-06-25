@@ -1,0 +1,24 @@
+business_date: 2025-06-25
+data_path: C:\Users\Admin\dq\dq_rules\onboarding\sample_data.csv
+dataset_name: sample_dataset
+rules:
+  col1:
+  - category: discovery
+    name: null_values
+    params: {}
+  - category: discovery
+    name: duplicate_rows
+    params: {}
+  - category: discovery
+    name: empty_strings
+    params: {}
+  col2:
+  - category: discovery
+    name: all_integers
+    params: {}
+  - category: discovery
+    name: all_strings
+    params: {}
+  - category: discovery
+    name: null_values
+    params: {}

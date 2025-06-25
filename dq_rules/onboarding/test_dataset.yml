@@ -1,0 +1,9 @@
+dataset_name: test_dataset
+business_date: 2025-06-25
+data_path: data.csv
+rules:
+  col1:
+    - category: discovery
+      name: null_values
+      params: {}
+# You can add more rules and columns as needed

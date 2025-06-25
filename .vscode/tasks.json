@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run DQ API",
+            "type": "shell",
+            "command": "C:/Users/Admin/dq/.venv/Scripts/uvicorn.exe dq_rules.api.main:app --reload --port 8000",
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}

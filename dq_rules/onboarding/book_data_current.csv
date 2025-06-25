@@ -1,0 +1,7 @@
+business_date,region,source_system_id,result_type,cal_category,book_id,reporting_value
+2025-06-01,North America, ,Profit,Revenue,101,125000.50
+2025-06-01,Europe,SS002,Loss,Expense,102,125000.50
+2025-06-01,Europe,SS002,Loss,Expense,102,125000.50
+2025-06-01,Asia,SS003,Profit,Revenue,103,98000.75
+2025-06-01,North America,SS004,Loss,Depreciation,104,-15000.00
+2025-06-01,Latin America,510,Profit,Interest,105,32000000000000.10

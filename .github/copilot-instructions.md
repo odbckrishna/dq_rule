@@ -1,0 +1,3 @@
+<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+
+This project is a modular Python application for managing and validating data quality rules. Each rule category is a separate module. Rules and datasets are onboarded via YAML templates. The rule engine validates data and outputs results as CSV. An API endpoint triggers rule validation, taking dataset name and output CSV location as parameters. The structure is extensible for new categories and rules.
